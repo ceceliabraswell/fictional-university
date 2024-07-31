@@ -23,7 +23,7 @@ Below are some of the tasks I will be tackling to complete this project:
 I was recently hired to build a WordPress site for a customer, and since I had previous experience with coding, I thought it was be great to learn how to incorporate some of my those skills into customizing future sites. I am an avid believer in life-long learner, and I want to continue to grow and develop my skills in whatever areas that peak my interest. Since PHP is the primary programming language used in WordPress, I thought it would be a great next step to tackle.
 
 ## Curent progress 
-- 8% complete.
+- 9% complete.
 
 
 ## Built with
